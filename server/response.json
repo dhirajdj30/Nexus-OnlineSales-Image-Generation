@@ -1,0 +1,14 @@
+{
+    "status": "success",
+    "creative_url": "ethixlucifer.eastus2.cloudapp.azure.com:3000/imagesGen/output_0_1734965258203.webp",
+    "scoring": {
+        "completeScore": "in the development of scoring patterns"
+    },
+    "metadata": {
+        "file_size_kb": "988.75",
+        "dimensions": {
+            "width": 1344,
+            "height": 768
+        }
+    }
+}
